@@ -1,0 +1,9 @@
+
+Run cpplint
+
+Done processing ./task1.c
+Done processing ./task2.c
+Done processing ./task3.c
+
+Run clang-tidy
+
